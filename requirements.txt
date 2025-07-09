@@ -1,0 +1,10 @@
+pymongo
+certifi
+python-dotenv
+yt_dlp
+httpx
+youtube-search-python
+huggingface_hub
+pydantic
+pydantic_ai
+openai
